@@ -59,7 +59,22 @@
 
 ### `$ tail -f pinned-processes.log`
 
-*(pin your top repos here once they exist — they render above this section automatically)*
+### 🧠 Memory Rush
+A Python memory-testing game featuring 10 progressively challenging levels.
+
+[View Repository](https://github.com/Temple-Daemon/test-iq-with-temple)
+
+### 🎫 CampusFlow
+A collaborative CLI helpdesk project for managing support tickets and tracking their progress.
+
+[View Repository](https://github.com/dab00gieman/campusflow-hades-ii)
+
+### 🔍 CampusFlow Next
+A collaborative engineering project focused on ticket search, filtering, resolution reporting, and software reliability.
+
+My contribution as Engineer B includes search, filtering, and reporting work.
+
+[View Repository](https://github.com/chikafor/campusflow-next)
 
 </div>
 
